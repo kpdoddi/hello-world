@@ -1,2 +1,2 @@
-# hello-world
-This line added as sample by kpdoddi.
+# hello-queries
+SQL++ Favorites 
